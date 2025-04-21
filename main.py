@@ -10,3 +10,5 @@ if kelime in meme_sozlugu.keys():
     print(meme_sozlugu[kelime])
 else:
     print("Henüz bu kelimeye sahip değiliz... Ama üzerinde çalışıyoruz!")
+
+#bu bir denemedir.
